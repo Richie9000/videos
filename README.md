@@ -1,6 +1,6 @@
-# Pics app
+# Videos app
 
-Simple web app created in React (using class components), user can write a word in the search bar and the app we will render a list of images related with that word.
+Simple web app created in React (using class components), user can write a word in the search bar and the app we will render a list of videos related with that word.
 
 ## Screenshot
 
